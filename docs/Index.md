@@ -23,9 +23,9 @@
 >- Xícara
 >- Retângulo
 >- Canal de alta/baixa
->- Duplo topo
->- D
+>- Duplo topo/fundo
+>- Triplo topo/fundo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTQ5MzczOCwtMTExNzA1ODc0OCwxMD
+eyJoaXN0b3J5IjpbLTE5MTYxNDE5MCwtMTExNzA1ODc0OCwxMD
 g0NDg5MzM1XX0=
 -->
