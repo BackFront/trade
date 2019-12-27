@@ -16,6 +16,7 @@
 >- Umbrella
 >- Shooting Star (estrela cadente)
 >- Enforcado
+>
 
 # Padrões (Figuras gráficas)
 >- Triângulos Convergentes
@@ -56,7 +57,7 @@ _**Referencias:**_
 
 [https://www.bussoladoinvestidor.com.br/as-10-regras-de-ouro-da-analise-tecnica/](https://www.bussoladoinvestidor.com.br/as-10-regras-de-ouro-da-analise-tecnica/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU0NDUyMjYsLTI2NDY5NTk2MywtNT
-kxNjAxNzIyLDE0MDI1NDA4MTcsLTExMTcwNTg3NDgsMTA4NDQ4
-OTMzNV19
+eyJoaXN0b3J5IjpbLTEzOTY3MDE5NjYsLTEyMzU0NDUyMjYsLT
+I2NDY5NTk2MywtNTkxNjAxNzIyLDE0MDI1NDA4MTcsLTExMTcw
+NTg3NDgsMTA4NDQ4OTMzNV19
 -->
