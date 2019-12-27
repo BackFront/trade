@@ -19,7 +19,13 @@
 >- Piercing Line
 >- Kicking
 >- Bebê abandonado
->
+>- Three Outside Up
+>- Dragonfly Doji
+>- Long Legged Doji
+>- Gravestone
+>- Harami Cross
+>- Breakway
+>- Dar
 
 # Padrões (Figuras gráficas)
 >- Triângulos Convergentes
@@ -62,7 +68,7 @@ _**Referencias:**_
 
 [https://www.infomoney.com.br/onde-investir/confuso-entre-os-candlestick-conheca-os-principais-padroes-de-reversao/](https://www.infomoney.com.br/onde-investir/confuso-entre-os-candlestick-conheca-os-principais-padroes-de-reversao/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg1MDI4NDksLTEyMzU0NDUyMjYsLT
+eyJoaXN0b3J5IjpbLTEyODg4NzUwOTUsLTEyMzU0NDUyMjYsLT
 I2NDY5NTk2MywtNTkxNjAxNzIyLDE0MDI1NDA4MTcsLTExMTcw
 NTg3NDgsMTA4NDQ4OTMzNV19
 -->
