@@ -5,12 +5,15 @@
 >- Trap (armadilha)
 
 # Candle Stiks
->- Dogi 
+>- Doji 
 >- Engolfo
 >- Martelo
 >- Harami (ou inside bar) _"inverso do engolfo"_
 >- Estrela da manhã/noite
->- **MARUBOZU
+>- Morubozu (ou elefante)
+>- Spinning Top
+>- Four Price Doji
+>- Umbrella
 
 # Padrões (Figuras gráficas)
 >- Triângulos Convergentes
@@ -31,6 +34,6 @@ _**Referencias:**_
 [https://toohightoolo.wordpress.com/2015/02/15/chart-patterns-intro/](https://toohightoolo.wordpress.com/2015/02/15/chart-patterns-intro/)
 [https://www.candlesticker.com/BullishPatterns.aspx?lang=en](https://www.candlesticker.com/BullishPatterns.aspx?lang=en)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDI0NTQ5OTAsMTQwMjU0MDgxNywtMT
-ExNzA1ODc0OCwxMDg0NDg5MzM1XX0=
+eyJoaXN0b3J5IjpbNzM3MjM1Njk3LDE0MDI1NDA4MTcsLTExMT
+cwNTg3NDgsMTA4NDQ4OTMzNV19
 -->
