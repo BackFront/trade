@@ -51,8 +51,12 @@ _**Referencias:**_
 [https://www.bussoladoinvestidor.com.br/media-movel-exponencial/?utm_source=bdi&utm_medium=organic&utm_content=guia-analise-tecnica&utm_campaign=conteudo](https://www.bussoladoinvestidor.com.br/media-movel-exponencial/?utm_source=bdi&utm_medium=organic&utm_content=guia-analise-tecnica&utm_campaign=conteudo)
 
 [https://www.bussoladoinvestidor.com.br/bandas-de-bollinger/?utm_source=bdi&utm_medium=organic&utm_content=guia-analise-tecnica&utm_campaign=conteudo](https://www.bussoladoinvestidor.com.br/bandas-de-bollinger/?utm_source=bdi&utm_medium=organic&utm_content=guia-analise-tecnica&utm_campaign=conteudo)
+
+[https://www.bussoladoinvestidor.com.br/7-dicas-de-analise-tecnica-para-voce-vencer-na-bolsa/?utm_source=bdi&utm_medium=organic&utm_content=guia-analise-tecnica&utm_campaign=conteudo](https://www.bussoladoinvestidor.com.br/7-dicas-de-analise-tecnica-para-voce-vencer-na-bolsa/?utm_source=bdi&utm_medium=organic&utm_content=guia-analise-tecnica&utm_campaign=conteudo)
+
+[https://www.bussoladoinvestidor.com.br/as-10-regras-de-ouro-da-analise-tecnica/](https://www.bussoladoinvestidor.com.br/as-10-regras-de-ouro-da-analise-tecnica/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzcwODIwNjQsLTI2NDY5NTk2MywtNT
+eyJoaXN0b3J5IjpbLTEyMzU0NDUyMjYsLTI2NDY5NTk2MywtNT
 kxNjAxNzIyLDE0MDI1NDA4MTcsLTExMTcwNTg3NDgsMTA4NDQ4
 OTMzNV19
 -->
