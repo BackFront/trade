@@ -15,6 +15,7 @@
 >- Four Price Doji
 >- Umbrella
 >- Shooting Star (estrela cadente)
+>Enforcado
 
 # Padrões (Figuras gráficas)
 >- Triângulos Convergentes
@@ -36,6 +37,6 @@ _**Referencias:**_
 [https://www.candlesticker.com/BullishPatterns.aspx?lang=en](https://www.candlesticker.com/BullishPatterns.aspx?lang=en)
 [https://fbs.com/analytics/guidebooks/reversal-candlestick-patterns-337](https://fbs.com/analytics/guidebooks/reversal-candlestick-patterns-337)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTYwMTcyMiwxNDAyNTQwODE3LC0xMT
-E3MDU4NzQ4LDEwODQ0ODkzMzVdfQ==
+eyJoaXN0b3J5IjpbLTk5ODE3MTY3NywtNTkxNjAxNzIyLDE0MD
+I1NDA4MTcsLTExMTcwNTg3NDgsMTA4NDQ4OTMzNV19
 -->
