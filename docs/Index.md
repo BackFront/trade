@@ -14,6 +14,7 @@
 >- Spinning Top
 >- Four Price Doji
 >- Umbrella
+>- Shooting Star (estrela cadente)
 
 # Padrões (Figuras gráficas)
 >- Triângulos Convergentes
@@ -33,7 +34,8 @@ _____________
 _**Referencias:**_
 [https://toohightoolo.wordpress.com/2015/02/15/chart-patterns-intro/](https://toohightoolo.wordpress.com/2015/02/15/chart-patterns-intro/)
 [https://www.candlesticker.com/BullishPatterns.aspx?lang=en](https://www.candlesticker.com/BullishPatterns.aspx?lang=en)
+[https://fbs.com/analytics/guidebooks/reversal-candlestick-patterns-337](https://fbs.com/analytics/guidebooks/reversal-candlestick-patterns-337)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTE2NjM2NCwxNDAyNTQwODE3LC0xMT
+eyJoaXN0b3J5IjpbLTU5MTYwMTcyMiwxNDAyNTQwODE3LC0xMT
 E3MDU4NzQ4LDEwODQ0ODkzMzVdfQ==
 -->
