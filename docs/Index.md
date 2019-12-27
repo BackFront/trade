@@ -2,12 +2,13 @@
 >- Parede Proteção
 >- Dave Landry
 >- 123
+>- Tr
 
 # Candle Stiks
 >- Dogi 
 >- Engolfo
 >- Martelo
->- Harami (ou inside bar)
+>- Harami (ou inside bar) _"inverso do engolfo"_
 >- Estrela da manhã/noite
 
 # Padrões (Figuras gráficas)
@@ -21,6 +22,6 @@
 >- Diamante
 >- Xícara
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTc0MzE5MSwtMTExNzA1ODc0OCwxMD
-g0NDg5MzM1XX0=
+eyJoaXN0b3J5IjpbLTE0NDY2MjAxMzEsLTExMTcwNTg3NDgsMT
+A4NDQ4OTMzNV19
 -->
