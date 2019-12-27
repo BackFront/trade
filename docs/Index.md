@@ -25,7 +25,7 @@
 >- Gravestone
 >- Harami Cross
 >- Breakway
->- Dar
+>- Dark Cloud (Nuvem negra)
 
 # Padrões (Figuras gráficas)
 >- Triângulos Convergentes
@@ -68,7 +68,7 @@ _**Referencias:**_
 
 [https://www.infomoney.com.br/onde-investir/confuso-entre-os-candlestick-conheca-os-principais-padroes-de-reversao/](https://www.infomoney.com.br/onde-investir/confuso-entre-os-candlestick-conheca-os-principais-padroes-de-reversao/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg4NzUwOTUsLTEyMzU0NDUyMjYsLT
-I2NDY5NTk2MywtNTkxNjAxNzIyLDE0MDI1NDA4MTcsLTExMTcw
-NTg3NDgsMTA4NDQ4OTMzNV19
+eyJoaXN0b3J5IjpbNTEwMDAzNTEwLC0xMjM1NDQ1MjI2LC0yNj
+Q2OTU5NjMsLTU5MTYwMTcyMiwxNDAyNTQwODE3LC0xMTE3MDU4
+NzQ4LDEwODQ0ODkzMzVdfQ==
 -->
