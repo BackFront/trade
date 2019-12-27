@@ -25,7 +25,10 @@
 >- Canal de alta/baixa
 >- Duplo topo/fundo
 >- Triplo topo/fundo
+_____________
+_**Referencias:**_
+[https://toohightoolo.wordpress.com/2015/02/15/chart-patterns-intro/](https://toohightoolo.wordpress.com/2015/02/15/chart-patterns-intro/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTYxNDE5MCwtMTExNzA1ODc0OCwxMD
+eyJoaXN0b3J5IjpbMTQwMjU0MDgxNywtMTExNzA1ODc0OCwxMD
 g0NDg5MzM1XX0=
 -->
