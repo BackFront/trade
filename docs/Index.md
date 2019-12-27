@@ -15,7 +15,7 @@
 >- Four Price Doji
 >- Umbrella
 >- Shooting Star (estrela cadente)
->Enforcado
+>- Enforcado
 
 # Padrões (Figuras gráficas)
 >- Triângulos Convergentes
@@ -36,7 +36,8 @@ _**Referencias:**_
 [https://toohightoolo.wordpress.com/2015/02/15/chart-patterns-intro/](https://toohightoolo.wordpress.com/2015/02/15/chart-patterns-intro/)
 [https://www.candlesticker.com/BullishPatterns.aspx?lang=en](https://www.candlesticker.com/BullishPatterns.aspx?lang=en)
 [https://fbs.com/analytics/guidebooks/reversal-candlestick-patterns-337](https://fbs.com/analytics/guidebooks/reversal-candlestick-patterns-337)
+[https://www.bussoladoinvestidor.com.br/homem-enforcado/](https://www.bussoladoinvestidor.com.br/homem-enforcado/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODE3MTY3NywtNTkxNjAxNzIyLDE0MD
+eyJoaXN0b3J5IjpbLTI2NDY5NTk2MywtNTkxNjAxNzIyLDE0MD
 I1NDA4MTcsLTExMTcwNTg3NDgsMTA4NDQ4OTMzNV19
 -->
