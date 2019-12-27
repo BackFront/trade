@@ -36,15 +36,23 @@
 >- Médias Móveis
 >- Volume
 >- Bandas de Bollinger
-_____________
+>- Estocástico 
+
+
 _**Referencias:**_
 [https://toohightoolo.wordpress.com/2015/02/15/chart-patterns-intro/](https://toohightoolo.wordpress.com/2015/02/15/chart-patterns-intro/)
+
 [https://www.candlesticker.com/BullishPatterns.aspx?lang=en](https://www.candlesticker.com/BullishPatterns.aspx?lang=en)
+
 [https://fbs.com/analytics/guidebooks/reversal-candlestick-patterns-337](https://fbs.com/analytics/guidebooks/reversal-candlestick-patterns-337)
+
 [https://www.bussoladoinvestidor.com.br/homem-enforcado/](https://www.bussoladoinvestidor.com.br/homem-enforcado/)
+
 [https://www.bussoladoinvestidor.com.br/media-movel-exponencial/?utm_source=bdi&utm_medium=organic&utm_content=guia-analise-tecnica&utm_campaign=conteudo](https://www.bussoladoinvestidor.com.br/media-movel-exponencial/?utm_source=bdi&utm_medium=organic&utm_content=guia-analise-tecnica&utm_campaign=conteudo)
+
+[https://www.bussoladoinvestidor.com.br/bandas-de-bollinger/?utm_source=bdi&utm_medium=organic&utm_content=guia-analise-tecnica&utm_campaign=conteudo](https://www.bussoladoinvestidor.com.br/bandas-de-bollinger/?utm_source=bdi&utm_medium=organic&utm_content=guia-analise-tecnica&utm_campaign=conteudo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTgxMjgzMCwtMjY0Njk1OTYzLC01OT
-E2MDE3MjIsMTQwMjU0MDgxNywtMTExNzA1ODc0OCwxMDg0NDg5
-MzM1XX0=
+eyJoaXN0b3J5IjpbLTE1NzcwODIwNjQsLTI2NDY5NTk2MywtNT
+kxNjAxNzIyLDE0MDI1NDA4MTcsLTExMTcwNTg3NDgsMTA4NDQ4
+OTMzNV19
 -->
