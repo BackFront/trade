@@ -7,14 +7,18 @@
 >- Dogi 
 >- Engolfo
 >- Martelo
+
+# Padrões
 >- Triângulos Convergentes
 >-- Triângulos Simétricos (Ascendente/Descendente)
 >-- Triângulos Assimétrico (Ascendente/Descendente)
 >- Triângulos Divergentes
 >-- Triângulos Assimétrico (Ascendente/Descendente)
 >- OCO (Cabeça, Ombro, Cabeça)
->- Mastro Bandeira/Flâmu
+>- Mastro Bandeira/Flâmula
+>- Diamante
+>- Xícara
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1NjU0MDI0LC0xMTE3MDU4NzQ4LDEwOD
-Q0ODkzMzVdfQ==
+eyJoaXN0b3J5IjpbMTQ2MDYzMzE3NSwtMTExNzA1ODc0OCwxMD
+g0NDg5MzM1XX0=
 -->
