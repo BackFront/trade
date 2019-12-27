@@ -4,7 +4,7 @@
 >- 123
 >- Trap (armadilha)
 
-# Candle Stiks
+# Candle Stikers
 >- Doji 
 >- Engolfo
 >- Martelo
@@ -34,6 +34,6 @@ _**Referencias:**_
 [https://toohightoolo.wordpress.com/2015/02/15/chart-patterns-intro/](https://toohightoolo.wordpress.com/2015/02/15/chart-patterns-intro/)
 [https://www.candlesticker.com/BullishPatterns.aspx?lang=en](https://www.candlesticker.com/BullishPatterns.aspx?lang=en)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3MjM1Njk3LDE0MDI1NDA4MTcsLTExMT
-cwNTg3NDgsMTA4NDQ4OTMzNV19
+eyJoaXN0b3J5IjpbLTk3OTE2NjM2NCwxNDAyNTQwODE3LC0xMT
+E3MDU4NzQ4LDEwODQ0ODkzMzVdfQ==
 -->
