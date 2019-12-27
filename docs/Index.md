@@ -2,7 +2,7 @@
 >- Parede Proteção
 >- Dave Landry
 >- 123
->- Tr
+>- Trap (armadilha)
 
 # Candle Stiks
 >- Dogi 
@@ -22,6 +22,6 @@
 >- Diamante
 >- Xícara
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY2MjAxMzEsLTExMTcwNTg3NDgsMT
-A4NDQ4OTMzNV19
+eyJoaXN0b3J5IjpbMjAyODI4OTE3NiwtMTExNzA1ODc0OCwxMD
+g0NDg5MzM1XX0=
 -->
