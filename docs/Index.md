@@ -16,6 +16,9 @@
 >- Umbrella
 >- Shooting Star (estrela cadente)
 >- Enforcado
+>- Piercing Line
+>- Kicking
+>- Bebê abandonado
 >
 
 # Padrões (Figuras gráficas)
@@ -56,8 +59,10 @@ _**Referencias:**_
 [https://www.bussoladoinvestidor.com.br/7-dicas-de-analise-tecnica-para-voce-vencer-na-bolsa/?utm_source=bdi&utm_medium=organic&utm_content=guia-analise-tecnica&utm_campaign=conteudo](https://www.bussoladoinvestidor.com.br/7-dicas-de-analise-tecnica-para-voce-vencer-na-bolsa/?utm_source=bdi&utm_medium=organic&utm_content=guia-analise-tecnica&utm_campaign=conteudo)
 
 [https://www.bussoladoinvestidor.com.br/as-10-regras-de-ouro-da-analise-tecnica/](https://www.bussoladoinvestidor.com.br/as-10-regras-de-ouro-da-analise-tecnica/)
+
+[https://www.infomoney.com.br/onde-investir/confuso-entre-os-candlestick-conheca-os-principais-padroes-de-reversao/](https://www.infomoney.com.br/onde-investir/confuso-entre-os-candlestick-conheca-os-principais-padroes-de-reversao/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY3MDE5NjYsLTEyMzU0NDUyMjYsLT
+eyJoaXN0b3J5IjpbLTE4Mjg1MDI4NDksLTEyMzU0NDUyMjYsLT
 I2NDY5NTk2MywtNTkxNjAxNzIyLDE0MDI1NDA4MTcsLTExMTcw
 NTg3NDgsMTA4NDQ4OTMzNV19
 -->
