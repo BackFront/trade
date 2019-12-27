@@ -31,9 +31,11 @@
 >- Canal de alta/baixa
 >- Duplo topo/fundo
 >- Triplo topo/fundo
-_____________
-# Padrões (Figuras gráficas)
 
+# Padrões (Figuras gráficas)
+>- Médias Móveis
+>- Volume
+>- Bandas de Bollinger
 _____________
 _**Referencias:**_
 [https://toohightoolo.wordpress.com/2015/02/15/chart-patterns-intro/](https://toohightoolo.wordpress.com/2015/02/15/chart-patterns-intro/)
@@ -42,7 +44,7 @@ _**Referencias:**_
 [https://www.bussoladoinvestidor.com.br/homem-enforcado/](https://www.bussoladoinvestidor.com.br/homem-enforcado/)
 [https://www.bussoladoinvestidor.com.br/media-movel-exponencial/?utm_source=bdi&utm_medium=organic&utm_content=guia-analise-tecnica&utm_campaign=conteudo](https://www.bussoladoinvestidor.com.br/media-movel-exponencial/?utm_source=bdi&utm_medium=organic&utm_content=guia-analise-tecnica&utm_campaign=conteudo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzg1NjA0OCwtMjY0Njk1OTYzLC01OT
+eyJoaXN0b3J5IjpbLTU1NTgxMjgzMCwtMjY0Njk1OTYzLC01OT
 E2MDE3MjIsMTQwMjU0MDgxNywtMTExNzA1ODc0OCwxMDg0NDg5
 MzM1XX0=
 -->
