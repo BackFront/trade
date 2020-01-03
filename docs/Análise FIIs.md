@@ -6,8 +6,11 @@ _**Principais Indicadores:**_
 -  Área Bruta Locável
 - Multi localidade
 - Multi inquilino
--  Vacância
--  Prazo
+- Localidade dos Ativos
+- Estado dos Ativos
+- Vacância
+- Prazo
+- Data Validade Contratos
 - Data Constituição do Fundo
 - Volume de Negociação
 - PVP
@@ -15,5 +18,5 @@ _**Principais Indicadores:**_
 -  Inadimplência
 -  Fontes de Renda
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODc4OTM3MF19
+eyJoaXN0b3J5IjpbMzI5MDUyNTg0LDE3Mzg3ODkzNzBdfQ==
 -->
