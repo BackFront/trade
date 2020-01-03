@@ -1,7 +1,6 @@
 <h1 align="center">Análise Fundamentalista de Fundos Imobiliários</h1>
 
 _**Principais Indicadores:**_
-
 - Quantidade de Ativos
 -  Área Bruta Locável
 - Multi localidade
@@ -21,6 +20,6 @@ _**Principais Indicadores:**_
 > [!WARNING]  
 > Dangerous certain consequences of an action.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjEzMjc5NiwxMTM2ODk2NTY1LDQyNT
+eyJoaXN0b3J5IjpbMTM4MTQwNzcwMiwxMTM2ODk2NTY1LDQyNT
 UzOTAzMCwxNzM4Nzg5MzcwXX0=
 -->
