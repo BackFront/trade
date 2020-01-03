@@ -42,7 +42,7 @@
 >- Duplo topo/fundo
 >- Triplo topo/fundo
 
-# Padrões (Figuras gráficas)
+# Ferramentas de Análise
 >- Médias Móveis
 >- Volume
 >- Bandas de Bollinger
@@ -68,7 +68,7 @@ _**Referencias:**_
 
 [https://www.infomoney.com.br/onde-investir/confuso-entre-os-candlestick-conheca-os-principais-padroes-de-reversao/](https://www.infomoney.com.br/onde-investir/confuso-entre-os-candlestick-conheca-os-principais-padroes-de-reversao/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwMDAzNTEwLC0xMjM1NDQ1MjI2LC0yNj
-Q2OTU5NjMsLTU5MTYwMTcyMiwxNDAyNTQwODE3LC0xMTE3MDU4
-NzQ4LDEwODQ0ODkzMzVdfQ==
+eyJoaXN0b3J5IjpbLTg0NDE1NzA5Niw1MTAwMDM1MTAsLTEyMz
+U0NDUyMjYsLTI2NDY5NTk2MywtNTkxNjAxNzIyLDE0MDI1NDA4
+MTcsLTExMTcwNTg3NDgsMTA4NDQ4OTMzNV19
 -->
