@@ -17,6 +17,7 @@ _**Principais Indicadores:**_
 - Dividend Yeld (médio)
 -  Inadimplência
 -  Fontes de Renda
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5MDUyNTg0LDE3Mzg3ODkzNzBdfQ==
+eyJoaXN0b3J5IjpbNDI1NTM5MDMwLDE3Mzg3ODkzNzBdfQ==
 -->
