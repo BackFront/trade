@@ -1,6 +1,6 @@
 # Análise Fundamentalista de Fundos Imobiliários
 
-_*Principais Indicadores:*_
+**Principais Indicadores:**_
 
 - Quantidade de Ativos
 -  Área Bruta Locável
@@ -15,5 +15,5 @@ _*Principais Indicadores:*_
 -  Inadimplência
 -  Fontes de Renda
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTI3Mjc4NF19
+eyJoaXN0b3J5IjpbLTg2NjAxOTM4N119
 -->
