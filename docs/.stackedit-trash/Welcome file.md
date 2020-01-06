@@ -147,10 +147,12 @@ graph LR
 
 A[Quadrado]
 B(Inicio/Fim)
-C
-D
-
+C{Decisão}
+D((Conector))
 ```
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTQxMDMzMF19
+eyJoaXN0b3J5IjpbMTY1ODA5NTc1M119
 -->
