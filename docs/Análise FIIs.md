@@ -16,7 +16,16 @@ _**Principais Indicadores:**_
 - Dividend Yeld (médio)
 -  Inadimplência
 -  Fontes de Renda
+
+```mermaid
+graph LR
+A[Ativo] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0MzAwOTM3LDEzODE0MDc3MDIsMTEzNj
-g5NjU2NSw0MjU1MzkwMzAsMTczODc4OTM3MF19
+eyJoaXN0b3J5IjpbMTQ3NzIyMDc0Nyw1NDQzMDA5MzcsMTM4MT
+QwNzcwMiwxMTM2ODk2NTY1LDQyNTUzOTAzMCwxNzM4Nzg5Mzcw
+XX0=
 -->
