@@ -145,15 +145,11 @@ C --> D
 ```mermaid
 graph LR
 
-A[Quadrado]
+A[Quadrado] -- texto -->
 B(Inicio/Fim)
 C{Decisão}
 D((Conexão))
-E[/Entrada saída de dados /]
 ```
-
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzkzMTg0OV19
+eyJoaXN0b3J5IjpbMjEwMTQ5Mjg2OV19
 -->
