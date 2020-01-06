@@ -148,11 +148,12 @@ graph LR
 A[Quadrado]
 B(Inicio/Fim)
 C{Decisão}
-D((Conector))
+D((Conexão))
+E[/Entrada saída de dados /]
 ```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODA5NTc1M119
+eyJoaXN0b3J5IjpbMTM4NzkzMTg0OV19
 -->
