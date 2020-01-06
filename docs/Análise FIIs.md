@@ -19,13 +19,11 @@ _**Principais Indicadores:**_
 
 ```mermaid
 graph LR
-A[Ativo] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
+A[Ativo] --> B(Circle)
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzIyMDc0Nyw1NDQzMDA5MzcsMTM4MT
-QwNzcwMiwxMTM2ODk2NTY1LDQyNTUzOTAzMCwxNzM4Nzg5Mzcw
-XX0=
+eyJoaXN0b3J5IjpbNzMzMzQ4MDE3LDU0NDMwMDkzNywxMzgxND
+A3NzAyLDExMzY4OTY1NjUsNDI1NTM5MDMwLDE3Mzg3ODkzNzBd
+fQ==
 -->
