@@ -20,10 +20,9 @@ _**Principais Indicadores:**_
 ```mermaid
 graph LR
 A[Ativo] --> B(Circle)
-
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzMzQ4MDE3LDU0NDMwMDkzNywxMzgxND
-A3NzAyLDExMzY4OTY1NjUsNDI1NTM5MDMwLDE3Mzg3ODkzNzBd
-fQ==
+eyJoaXN0b3J5IjpbLTExMTQyMTMyODEsNTQ0MzAwOTM3LDEzOD
+E0MDc3MDIsMTEzNjg5NjU2NSw0MjU1MzkwMzAsMTczODc4OTM3
+MF19
 -->
